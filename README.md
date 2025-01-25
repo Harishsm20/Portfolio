@@ -8,7 +8,7 @@ This project is a personal portfolio website designed to showcase my skills, pro
 
 ## Live Preview
 
-**Website Link :** [click here](https://sanjith-portfolio.netlify.app/)  
+**Website Link :** [click here](https://harishsm-portfolio.netlify.app/)  
 
 ---
 ## Technologies Used
@@ -36,7 +36,7 @@ This project is a personal portfolio website designed to showcase my skills, pro
 Clone the project
 
 ```bash
-  git clone https://github.com/sanjithrk06/My-Portfolio.git
+  git clone https://github.com/Harishsm20/Portfolio.git
 ```
 
 Go to the project directory
