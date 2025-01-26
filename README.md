@@ -1,5 +1,5 @@
 
-# My Portfolio Website 
+# Portfolio Website 
 
 ## Overview
 This project is a personal portfolio website designed to showcase my skills, projects, and professional achievements. It's a platform where potential employers, clients, and collaborators can learn more about me, my work, and how to get in touch.
@@ -42,7 +42,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd My-Portfolio
+  cd Portfolio
 ```
 
 Install dependencies
